@@ -1,6 +1,6 @@
 # Hi, I'm Aryan
 
-I lead release and production support for DocVu, a mortgage document-AI product. My team triages production issues and I set the priorities. About 4 years in enterprise tech, with data consulting at Informatica before this. Now moving into AI product and forward-deployed roles.
+I lead release and production support for DocVu, a mortgage document-AI product. I triages production issues and  set the priorities. About 4 years in enterprise tech, with data consulting at Informatica before this. Now moving into AI product and forward-deployed roles.
 
 ## What I'm building
 
