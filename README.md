@@ -1,18 +1,29 @@
-# Hi, I'm Aryan
+# Hi, I'm Aryan 👋
 
-I lead release and production support for DocVu, a mortgage document-AI product. I triage production issues and  set the priorities. About 4 years in enterprise tech, with data consulting at Informatica before this. Now moving into AI product and forward-deployed roles.
+I lead rollouts and product enhancements for **DocVu**, a mortgage document-AI product. I handle production triage, edge-case management, and feature prioritization. With around 4 years in enterprise tech—including data consulting at Informatica prior to this—I am now focusing on AI product management and forward-deployed engineering roles.
 
-## What I'm building
+---
 
-- **[rag-knowledge-base](https://github.com/kharyan14/rag-knowledge-base)** - document Q&A with LangChain, OpenAI embeddings and FAISS. Answers only from retrieved passages, cites them, and comes with a small eval set.
-- **[ai-research-digest](https://github.com/kharyan14/ai-research-digest)** - pulls new AI papers from arXiv, summarizes them with Gemini, and tracks category and author trends with pandas.
-- **[tax-saathi](https://github.com/kharyan14/tax-saathi)** - browser prototype that helps Indian taxpayers track ITR deadlines, late fees and filing documents. [Live demo](https://kharyan14.github.io/tax-saathi/)
-- **Document exception workbench** (in progress) - flags missing documents, conflicting values and low-confidence extractions in loan files, answers with cited policy, and sends low-confidence cases to a human before anything is written.
+## 🚀 What I'm Building
 
-## How I work
+* **[docchase](https://github.com/kharyan14/docchase)** — An intelligent multi-agent system designed to automate document tracking, follow-ups, and exception escalation across enterprise workflows.
+* **[rag-knowledge-base](https://github.com/kharyan14/rag-knowledge-base)** — Document Q&A built with LangChain, OpenAI embeddings, and FAISS. It answers exclusively from retrieved passages, cites its sources, and includes a built-in evaluation set.
+* **[ai-research-digest](https://github.com/kharyan14/ai-research-digest)** — Automatically pulls new AI papers from arXiv, summarizes them using Gemini, and tracks category and author trends via pandas.
+* **[tax-saathi](https://github.com/kharyan14/tax-saathi)** — A browser-based prototype helping Indian taxpayers track ITR deadlines, late fees, and required filing documents. 
+  * 🌐 Check out the [Live Demo](https://kharyan14.github.io/tax-saathi/)
+* **Document Exception Workbench** *(In Progress)* — Flags missing documents, conflicting values, and low-confidence extractions in loan files. It answers with cited policy and routes low-confidence cases to a human reviewer before any database write occurs.
 
-Production support shows you where AI products break: messy inputs, edge cases, unclear ownership. I turn those into specs, eval sets and working prototypes.
+---
 
-## Tools
+## 🛠️ How I Work
 
-Python, LangChain, FAISS, OpenAI and Gemini APIs, SQL, PySpark
+Production support shows you where AI products actually break: messy inputs, edge-case failures, and unclear data ownership. I turn those real-world failure modes into structured specs, rigorous eval sets, and robust working prototypes.
+
+---
+
+## 💻 Tech Stack & Tools
+
+* **Languages & Core:** Python, SQL, PySpark
+* **AI & LLM Stack:** LangChain, FAISS, OpenAI API, Gemini API
+
+```
