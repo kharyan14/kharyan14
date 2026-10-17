@@ -66,7 +66,3 @@ To ensure enterprise reliability, my document processing and RAG repositories tr
 * **Languages & Core:** `Python` `SQL` `PySpark`
 * **AI, LLM & RAG Stack:** `LangChain` `RAG Architectures` `Antigravity` `OpenAI API` `Gemini API`
 * **Document Processing & MLOps:** `Encoder-Decoder Models` `Model Evaluation & Evals` `Vector DBs (FAISS)`
-
----
-
-## 📈 GitHub Stats
